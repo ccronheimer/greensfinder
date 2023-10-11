@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "talbot-viewport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Talbot Trail Golf Club" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -82.448894864334846, 42.093804105657362 ], [ -82.448894864334846, 42.099001314473881 ], [ -82.439462895211392, 42.099001314473881 ], [ -82.439462895211392, 42.093804105657362 ], [ -82.448894864334846, 42.093804105657362 ] ] ] ] } }
+]
+}

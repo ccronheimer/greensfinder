@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "talbot-viewport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Talbot Trail Golf Club" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -9178168.9927659034729, 5175041.217445400543511 ], [ -9178168.9927659034729, 5175820.916445400565863 ], [ -9177119.03076590411365, 5175820.916445400565863 ], [ -9177119.03076590411365, 5175041.217445400543511 ], [ -9178168.9927659034729, 5175041.217445400543511 ] ] ] ] } }
+]
+}
